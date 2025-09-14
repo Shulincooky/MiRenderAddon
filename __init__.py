@@ -13,7 +13,7 @@
 
 bl_info = {
     "name": "Minecraft Render Engine",
-    "author": "Shulin&Baigive",
+    "author": "Shulin&Baigave",
     "description": "",
     "blender": (2, 80, 0),
     "version": (0, 0, 1),
